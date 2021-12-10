@@ -1,1 +1,1 @@
-# Pure_-JS_Slider
+# Pure_JS_Slider
